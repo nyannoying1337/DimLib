@@ -1,3 +1,15 @@
+# DimLib: unofficial Minecraft 26.3 port
+
+Unofficial port of [DimLib](https://github.com/iPortalTeam/DimLib) by qouteall to **Minecraft 26.3 (Fabric)**,
+made for the [Immersive Portals 26.3 port](https://github.com/YOUR_GITHUB_USER/ImmersivePortalsMod).
+Not made or endorsed by the original author; report problems here. See [NOTICE](NOTICE) for the changes.
+
+Build with a JDK 25: `./gradlew build`
+
+---
+
+*Original README below.*
+
 # DimLib
 
 This is a Fabric mod that can:
